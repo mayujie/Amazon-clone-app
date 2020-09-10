@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## [Live Demo of Amazon clone app](https://challenge-7eb5d.web.app/)
+
+Deployed on Firebase
+
 ## Start template
 
 - npx create-react-app amazon-clone
@@ -20,6 +24,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - `npm install @material-ui/icons`
 - `npm install react-router-dom`
 - `npm i react-currency-format`
+- build the price total counter and basket checkout with remove function
+- build Authentication by firebase, 1st layout
+- go to Authentication in firebase enable sign in method email
+- open new terminal `cd amazon-clone` folder and `npm i firebase`
+- `import firebase from "firebase";` in firebase.js
+- done sign in & out page and User Authentication
+- deploy online
+- `firebase login` to login firebase
+- `firebase init` then select `hosting` -> use an existing project -> (public) build
+- `npm run build` create production build, if make any changes in app you have run this again
+- `firebase deploy`
+- Homework day 3:
+  1. Add in the message to say ‘Hey [your email]’ on the Header Component.
+  2. Deploy to firebase
+  3. Add animations i.e. React Flip Move [react flip move](https://github.com/joshwcomeau/react-flip-move) add on checkout basket page
 
 ## Available Scripts
 
