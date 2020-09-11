@@ -22,7 +22,7 @@ function Home() {
           <Product
             id="B08B8VDK37"
             title="Stand Mixer Smoothie Maker"
-            price={31.72}
+            price={31}
             rating={4}
             image="https://m.media-amazon.com/images/I/7118DhChyEL._AC_UL320_.jpg"
           />
@@ -39,14 +39,14 @@ function Home() {
           <Product
             id="B00I3LUWQA"
             title="Sony MDR-ZX310B Lifestyle Headphones Without Microphone"
-            price={18.42}
+            price={18}
             rating={4}
             image="https://m.media-amazon.com/images/I/51hJN2pp02L._AC_UY218_.jpg"
           />
           <Product
             id="B07VQPM3QW"
             title="Samsung Galaxy Watch Active2, Bluetooth, 44 mm, Silver"
-            price={199.59}
+            price={199}
             rating={4}
             image="https://m.media-amazon.com/images/I/716KKssFT6L._AC_UY218_.jpg"
           />
@@ -56,7 +56,7 @@ function Home() {
           <Product
             id="B083WYD99J"
             title="Honor MagicWatch 42 mm Black"
-            price={134.99}
+            price={134}
             rating={5}
             image="https://m.media-amazon.com/images/I/51vQMxhVMzL._AC_UY218_.jpg"
           />
